@@ -2,3 +2,9 @@ clearbar-api.app
 clearbar.app
 clearbar.app
 placemytag.com
+jsdelivr.net
+onelaunch.com
+stratagreen.com.au
+tsdtocl.com
+bs.serving-sys.com
+dwizr.com
