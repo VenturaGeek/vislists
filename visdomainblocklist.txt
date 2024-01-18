@@ -3,6 +3,10 @@
 ################################################################
 #
 # DstIP
+clearbar-api.app
+clearbar.app
+clearbar.app
+placemytag.com
 venturainfosec.com
 disney.com
 yahoo.com
