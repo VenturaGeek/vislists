@@ -34,4 +34,5 @@ trk-tristique.com
 telegram.org
 archive.org
 us.archive-ubuntu.top
-docptypefinder.info 
+docptypefinder.info
+jnxm2.com
