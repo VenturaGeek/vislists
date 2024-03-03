@@ -38,3 +38,5 @@ docptypefinder.info
 jnxm2.com
 github.com
 discord.com
+connectwise.com
+screenconnect.com
