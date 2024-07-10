@@ -67,7 +67,6 @@ systems-alexhost.xyz
 panel.api-bo.my.id
 project.systemgoods.me
 danu.eventtss.my.id
-[invalid URL removed]
 apii-pandawara.ganznesia.my.id
 system-alexhosting.biz.id
 nd.api-system.engineer
