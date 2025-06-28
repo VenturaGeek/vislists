@@ -73,3 +73,6 @@ nd.api-system.engineer
 anti-spam.truex.biz.id
 panel-host.dmdpanel.my.id
 api-bo.my.id
+alboom.ninja
+midwesthose-specialty.alboompro.com
+newcoconstruction.alboompro.com
